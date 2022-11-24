@@ -2,10 +2,10 @@
 ## 🛠 TESTNET 🛠
 | Name Testnet             | Detail                                                                               | 
 | ----------------- | --------------------------------------------------------------------------------------------|
-|    **ALEO**       |[Tutorial Testnet Aleo]|(https://github.com/Art-Sy5team/Aleo/blob/main/README.md)                  |                                      
+|    **ALEO**       |[Tutorial Testnet Aleo](https://github.com/Art-Sy5team/Aleo/blob/main/README.md)                  |  
 |    **Q-block**    |[Tutorial Testnet Q-block](https://github.com/Art-Sy5team/Q-Blockchain-Tesnet/blob/main/README.md) |
-|     **OKP4**      |[Tutorial Testnet OKP4](https://github.com/Art-Sy5team/OKP4)                                       |
-|     **Gitopia**   |[Tutorial Testnet Gitopia (soon)](soon)                                                            |
+|    **OKP4**       |[Tutorial Testnet OKP4](https://github.com/Art-Sy5team/OKP4)                                       |
+|    **Gitopia**    |[Tutorial Testnet Gitopia (soon)](soon)                                                            |
 
 
 
