@@ -1,0 +1,6 @@
+https://img.shields.io/badge/Ethereum-7289d9?style=for-the-badge&logo=Ethereum&logoColor=white
+https://img.shields.io/badge/ATOM-6f7390?style=for-the-badge&logo=Atom&logoColor=white
+https://img.shields.io/badge/USDT-50AF95?style=for-the-badge&logo=Tether&logoColor=white
+https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=Binance&logoColor=white
+
+https://img.shields.io/badge/Binance%20chain%0x032FC5606633B62f5AcBD939b0D6e267b096492c-F0B90B?style=for-the-badge&logo=Binance&logoColor=white
