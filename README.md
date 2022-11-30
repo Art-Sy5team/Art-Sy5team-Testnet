@@ -2,12 +2,13 @@
 ## ⛏️ TESTNET ⛏️
 | Name Testnet             | Detail                                                                               | 
 | ----------------- | --------------------------------------------------------------------------------------------|
-|    **ALEO**       |[Tutorial Testnet Aleo](https://github.com/Art-Sy5team/Aleo/blob/main/README.md)                   |  
-|    **Q-block**    |[Tutorial Testnet Q-block](https://github.com/Art-Sy5team/Q-Blockchain-Tesnet/blob/main/README.md) |
-|    **OKP4**       |[Tutorial Testnet OKP4](https://github.com/Art-Sy5team/OKP4)                                       |
+|    **ALEO**       |[Tutorial Testnet Aleo](https://github.com/Art-Sy5team/Aleo/blob/main/README.md)                       |  
+|    **Q-block**    |[Tutorial Testnet Q-blockhain](https://github.com/Art-Sy5team/Q-Blockchain-Tesnet/blob/main/README.md) |
+|    **OKP4**       |[Tutorial Testnet OKP4](https://github.com/Art-Sy5team/OKP4/blob/main/README.md)                   |
 |    **Gitopia**    |[Tutorial Testnet Gitopia](https://github.com/Art-Sy5team/Gitopia/blob/main/README.md)             |
 | **Mina Protocol** |[Tutorial Testnet Mina ](https://github.com/Art-Sy5team/04-zkapp-browser-ui/blob/main/README.md)   |
-|**Dusk Network**   |[Tutorial Testnet DUSK](https://github.com/Art-Sy5team/DUSK/blob/main/README.md) |
+|**Dusk Network**   |[Tutorial Testnet DUSK Network](https://github.com/Art-Sy5team/DUSK/blob/main/README.md)           |
+|**Manta Network**  |[Tutorial Testnet Manta Network](https://github.com/Art-Sy5team/Manta-Network/blob/main/README.md) |
 
 
       /0000000 /000000  /00000000|        /000000               /0000000   /00|                                                 
