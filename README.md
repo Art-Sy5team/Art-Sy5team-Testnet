@@ -11,6 +11,7 @@
 |**Manta Network**  |[Tutorial Testnet Manta Network](https://github.com/Art-Sy5team/Manta-Network/blob/main/README.md) |
 |**Deinfra**        |[Tutorial Testnet Deinfra](https://github.com/Art-Sy5team/Deinfra/blob/main/README.md)             |
 |**ALEO-Pools**     |[Tutorial Testnet ALEO Pools HAMP](https://github.com/Art-Sy5team/Aleo-Pools/blob/main/README.md)  |
+|**Minima**         |[Tutorial Testnet Minima](https://github.com/Art-Sy5team/Minima/blob/main/README.md)               |
 
 
       /0000000 /000000  /00000000|        /000000               /0000000   /00|                                                 
