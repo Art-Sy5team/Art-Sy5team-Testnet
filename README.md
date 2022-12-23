@@ -12,6 +12,7 @@
 |**Deinfra**        |[Tutorial Testnet Deinfra](https://github.com/Art-Sy5team/Deinfra/blob/main/README.md)             |
 |**ALEO-Pools**     |[Tutorial Testnet ALEO Pools HAMP](https://github.com/Art-Sy5team/Aleo-Pools/blob/main/README.md)  |
 |**Minima**         |[Tutorial Testnet Minima](https://github.com/Art-Sy5team/Minima/blob/main/README.md)               |
+|**Gaganode**       |[Tutorial Testnet Gaganode](https://github.com/Art-Sy5team/gaganode/blob/main/README.md)           |
 
 
       /0000000 /000000  /00000000|        /000000               /0000000   /00|                                                 
@@ -32,6 +33,6 @@ noted: **art team** here does not have any specific goals or intentions, they on
 untuk INFO Testnet lainya Silahkan join Discord 👇
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArtSy5team)
-[![Discord](https://img.shields.io/badge/discord-7289d9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EAKEdZU6c8)
+[![Discord](https://img.shields.io/badge/discord-7289d9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hFmA9gt6cj)
 [![Github](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Art-Sy5team)
 [![trakteer](https://img.shields.io/badge/trakteer.id-e31e1e?style=for-the-badge&logo=ko-fi&logoColor=white)](https://trakteer.id/Art-Sy5team/tip)
