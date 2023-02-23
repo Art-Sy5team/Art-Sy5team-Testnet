@@ -15,8 +15,8 @@
 | **Gaganode**      | [SETUP Testnet Gaganode](https://github.com/Art-Sy5team/gaganode/blob/main/README.md)               |
 | **Muon**          | [SETUP Testnet Muon](https://github.com/Art-Sy5team/muon/blob/main/README.md)                       |
 | **Shardeum**      | [SETUP Testnet Shardeum](https://github.com/Art-Sy5team/Shardeum/blob/master/README.md)             |
-| **Moi**           | [SETUP Testnet Shardeum](https://github.com/Art-Sy5team/Shardeum/blob/master/README.md)             |
-| **Wormholes**     | [SETUP Testnet Wormholes](https://github.com/Art-Sy5team/Shardeum/blob/master/README.md)            |
+| **Moi**           | [SETUP Testnet Shardeum](https://github.com/Art-Sy5team/Moi/blob/main/README.md)                    |
+| **Wormholes**     | [SETUP Testnet Wormholes](https://github.com/Art-Sy5team/WormholesChain/blob/main/README.md)        |
 
       /0000000 /000000  /00000000|        /000000               /0000000   /00|
      / 0000000| 00__  00|__0000__/       /00__  00             | 00____/  | 00|
